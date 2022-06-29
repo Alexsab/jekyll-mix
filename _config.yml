@@ -50,8 +50,8 @@ timezone: null
 quiet: false
 verbose: false
 defaults:
-  js: /js/app.js
-  css: /css/app.css
+  js: /js/app.js?id=cac5225d4efcc9321b9f
+  css: /css/app.css?id=8fbcda1d15d0fae1a696
 liquid:
   error_mode: warn
 rdiscount:
